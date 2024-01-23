@@ -9,17 +9,6 @@
 
 // 			Options
 
-		// Stop trading automatically when true (not yet implemented)// ===================================================================================
-/*			
-		Hello and welcome.
-	This is the main file of the CookiStocker mod.
-	If you came to reverse engineer the code or have more questions about the algorithm
-	- you can just ask for advice in the Steam guide comments.
-		https://steamcommunity.com/sharedfiles/filedetails/?id=2599187047
-*/
-
-// 			Options
-
 		// Stop trading automatically when true (not yet implemented)
 		var stockerStopTrading = false
 		
